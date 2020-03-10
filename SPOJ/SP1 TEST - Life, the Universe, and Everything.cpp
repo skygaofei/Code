@@ -8,8 +8,6 @@
 #include <queue>
 #include <vector>
 #include <map>
-#include <sstream>
-#include <iomanip>
 inline bool read(int &num)
 {
 	char in; bool IsN = false;
